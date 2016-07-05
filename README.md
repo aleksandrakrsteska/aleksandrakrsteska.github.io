@@ -1,12 +1,44 @@
-# Stylish Portolio template for Jekyll
+# Sility - vCard, CV & Resume HTML Template
+**For Demo** : http://webtechfreaky.github.io/Sility-Resume-HTML
 
-A Jekyll implementation of the [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) template by [Start Bootstrap](http://startbootstrap.com/).
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/preview.jpg)
 
-See the site in action at https://volny.github.io/stylish-portfolio-jekyll/
+***
 
-## To use the Stylish Portfolio template in your project
+## Features
+- Material Design Style
+- css3 effects and animations
+- Code Optimized
+- Working PHP Contact Form
+- Easy to Use and Customize
+- Clean Design, Clean Code
+- Documentation
+- Free Support
+- Google Map
+- Font Awesome icons
+- Retina Ready
+- Fully Responsive
+- Built in Bootstrap
+- Error 404 Page
+- Google Web Fonts
+- 10 HTML Pages
 
-- Start by adding your info in `_config.yml`
-- Add as many address lines as you want. Your address will also be used to show your location on the map.
-- For the emdeded map to work you'll need to [get a key from Google Maps Embed API](https://developers.google.com/maps/documentation/embed/?hl=en)
-- In `_layouts/front.html` reorder or remove section as you prefer.
+---
+### Colors
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/color.jpg)
+
+## Change Log
+*02 April 2015*
+> Initial Release
+
+## Screenshots
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image1.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image2.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image3.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image4.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image5.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image6.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image7.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image8.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image9.png)
+
