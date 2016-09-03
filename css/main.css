@@ -399,7 +399,8 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   margin-top: -20px;
 }
 .g1.project {
-    width: 48%;
+    width: 98%;
+	
 }
 /* Icon Box */
 .sny-icon{
@@ -662,6 +663,10 @@ Change widths as necessary
   .etabs >li span{
     display: block;
   }
+  .g1.project {
+	  float: left;
+	  width:48%;
+  }
   
 }
 
@@ -678,6 +683,8 @@ Change widths as necessary
  }
  /* COLUMN GRID */
  .g1,.g2,.g3 {display:inline; float: left}
+ 
+ 
 
  /* 2 COLUMN GRID */
  .g1 {width:48.0%}
