@@ -354,7 +354,10 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .position {
 	float: left;
+	font-size: 20px;
+    color: #bd0d0d;
 }
+
 
 /* Portfolio */
 .image{
@@ -401,6 +404,9 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 .g1.project {
     width: 98%;
 	
+}
+.subtitle {
+    border-bottom: 1px solid #565047;
 }
 /* Icon Box */
 .sny-icon{
@@ -458,7 +464,9 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   border-radius: .25em;
 }
 .label-info {
-  background-color: #5bc0de;
+  background-color: #e74c3c;
+  font-size: 12px;
+};
 }
 
 .label-info[href]:hover,
